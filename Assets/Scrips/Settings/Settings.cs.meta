@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: ce8901f66862a1b4eb4b8b03e229cafb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - Move: {fileID: 11400000, guid: c219db693be03e14293c7210b76e1484, type: 2}
+  - Item: {fileID: 11400000, guid: 2dd353d4fc984cb47afe2955141665be, type: 2}
+  - Attack: {fileID: 11400000, guid: 9ef96191c9c2fa4499c45bd638047d99, type: 2}
+  - Game: {fileID: 11400000, guid: 237f216c63b5ba64491097fea7516cac, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
